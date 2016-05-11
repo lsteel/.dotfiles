@@ -19,13 +19,11 @@ kegs=(
 
 # Cask Apps
 casks=(
-  1password
-  visual-studio-code
-  discord
+  atom
+  textwrangler
   firefox
   google-chrome
-  sequel-pro
-  sketch
+  github-desktop
   slack
   virtualbox
 )
