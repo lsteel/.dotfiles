@@ -20,12 +20,17 @@ kegs=(
 # Cask Apps
 casks=(
   atom
+  intellij-idea
+  screenhero
   textwrangler
   firefox
   google-chrome
   github-desktop
   slack
   virtualbox
+  spectacle
+  sourcetree
+  sequel-pro
 )
 
 # Games
